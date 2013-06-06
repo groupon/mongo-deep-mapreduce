@@ -1,0 +1,9 @@
+*.iml
+.idea/
+*.orig
+target/
+logs/
+*.DS_STORE*
+integration/run/*
+src/test/db/*
+*.swp
